@@ -14,7 +14,7 @@ const Transaction = DBconnection.define('Transaction', {
       model: User,
       key: 'UserID'
     },
-    allowNull: false
+    allowNull: true
   },
   ReceiverUserID: {
     type: DataTypes.INTEGER,
