@@ -1,0 +1,52 @@
+[
+    {
+      "Symbol": "BTC",
+      "CurrentPrice": "46235.79",
+      "MarketCap": "318893406"
+    },
+    {
+      "Symbol": "ETH",
+      "CurrentPrice": "1745.66",
+      "MarketCap": "547593839"
+    },
+    {
+      "Symbol": "USDT",
+      "CurrentPrice": "1.00",
+      "MarketCap": "987625673"
+    },
+    {
+      "Symbol": "USDC",
+      "CurrentPrice": "0.99",
+      "MarketCap": "532140738"
+    },
+    {
+      "Symbol": "BNB",
+      "CurrentPrice": "342.24",
+      "MarketCap": "989623879"
+    },
+    {
+      "Symbol": "XRP",
+      "CurrentPrice": "0.75",
+      "MarketCap": "372146157"
+    },
+    {
+      "Symbol": "ADA",
+      "CurrentPrice": "1.22",
+      "MarketCap": "387910431"
+    },
+    {
+      "Symbol": "DOGE",
+      "CurrentPrice": "0.068",
+      "MarketCap": "90454773"
+    },
+    {
+      "Symbol": "SOL",
+      "CurrentPrice": "172.10",
+      "MarketCap": "561230853"
+    },
+    {
+      "Symbol": "DOT",
+      "CurrentPrice": "38.64",
+      "MarketCap": "383660453"
+    }
+  ]

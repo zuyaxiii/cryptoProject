@@ -1,0 +1,63 @@
+[
+    {
+      "UserID": 1,
+      "CryptoCurrency": "BTC",
+      "Balance": 100
+    },
+    {
+      "UserID": 1,
+      "CryptoCurrency": "ETH",
+      "Balance": 102
+    },
+    {
+      "UserID": 2,
+      "CryptoCurrency": "BTC",
+      "Balance": 8
+    },
+    {
+      "UserID": 2,
+      "CryptoCurrency": "DOGE",
+      "Balance": 5000
+    },
+    {
+      "UserID": 3,
+      "CryptoCurrency": "ETH",
+      "Balance": 20
+    },
+    {
+      "UserID": 3,
+      "CryptoCurrency": "USDT",
+      "Balance": 1200
+    },
+    {
+      "UserID": 4,
+      "CryptoCurrency": "BTC",
+      "Balance": 5
+    },
+    {
+      "UserID": 4,
+      "CryptoCurrency": "XRP",
+      "Balance": 1500
+    },
+    {
+      "UserID": 5,
+      "CryptoCurrency": "BTC",
+      "Balance": 20
+    },
+    {
+      "UserID": 5,
+      "CryptoCurrency": "BNB",
+      "Balance": 50
+    },
+    {
+      "UserID": 6,
+      "CryptoCurrency": "ETH",
+      "Balance": 10
+    },
+    {
+      "UserID": 6,
+      "CryptoCurrency": "SOL",
+      "Balance": 20
+    }
+  ]
+  

@@ -1,0 +1,50 @@
+[
+    {
+      "Username": "test566",
+      "Email": "test78@example.com",
+      "Password": "password123",
+      "CountryCode": "TH",
+      "KYCStatus": "Pending",
+      "Currency": "THB"
+    },
+    {
+      "Username": "test567",
+      "Email": "test79@example.com",
+      "Password": "password123",
+      "CountryCode": "US",
+      "KYCStatus": "Pending",
+      "Currency": "USD"
+    },
+    {
+      "Username": "test568",
+      "Email": "test80@example.com",
+      "Password": "password123",
+      "CountryCode": "JP",
+      "KYCStatus": "Pending",
+      "Currency": "JPY"
+    },
+    {
+      "Username": "test569",
+      "Email": "test81@example.com",
+      "Password": "password123",
+      "CountryCode": "IN",
+      "KYCStatus": "Pending",
+      "Currency": "INR"
+    },
+    {
+      "Username": "test570",
+      "Email": "test82@example.com",
+      "Password": "password123",
+      "CountryCode": "CN",
+      "KYCStatus": "Pending",
+      "Currency": "CNY"
+    },
+    {
+      "Username": "test571",
+      "Email": "test83@example.com",
+      "Password": "password123",
+      "CountryCode": "GB",
+      "KYCStatus": "Pending",
+      "Currency": "GBP"
+    }
+  ]
